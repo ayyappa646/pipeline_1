@@ -7,8 +7,13 @@ pipeline {
 				echo "this is the first stage of Rthe pipeline"
 					}
 				}
+	stage ('this is second satge og the pipelene'){
+		steps {
+		echo "jakhfgkna"
 			}
 		}
+	}
+}
 
 
 
