@@ -3,12 +3,8 @@ pipeline {
 
 	stages {
 		stage (this is first of the pipeline) {
-
 			steps {
-
-
-					echo "this is the first stage of Rthe pipeline"
-
+				echo "this is the first stage of Rthe pipeline"
 					}
 				}
 			}
